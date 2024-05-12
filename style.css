@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(255, 255, 228);
+    margin: 0px;
+    
+}
+.content{
+    margin: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 0px;
+    background-color: white;
+    width: 20%;
+    border-radius: 5px;
+}
+.content button{
+    font-size: 12px;
+    height: 30px;
+    width: 65px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(39, 191, 191);
+    color: white;
+    border: none;
+    
+}
+img{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    border-radius: 5px;
+}
+.ss{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    margin-top: 10px;
+}
+.ck{
+    position: absolute;
+    top: 10%;
+    right: 58%
+} 
+.cook{
+    border-bottom: 3px solid rgb(29, 28, 28);
+    margin: 10px;
+    height: 20px;
+}
+.cooking{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(29, 28, 28);
+    height: 32px;
+}
+.cooking button{
+    border: none;
+    font-size: 15px;
+    color:black;
+    background-color: rgb(255, 255, 228);
+}
+.ss i{
+    font-size: 9px;
+    color: black;
+    padding: 8px;
+}
+.ss p{
+    color: gray;
+    font-size: 13px;
+}
+.fa-solid fa-bowl-rice{
+    position: absolute;
+    top: 4%;
+    left: 16%;
+}
+.bu{
+    position: absolute;
+    top: 10%;
+    right: 36%
+}
+.but{
+    position: absolute;
+    top: 10%;
+    right: 14%
+}
